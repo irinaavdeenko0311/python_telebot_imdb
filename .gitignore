@@ -1,0 +1,10 @@
+**.idea/
+__pycache__/
+
+site_api/other/
+telegram/other/
+venv/
+
+.env_my
+history.db
+requirements.txt
